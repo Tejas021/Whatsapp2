@@ -99,9 +99,5 @@ display: none;
 -ms-overflow-style: none;
 scrollbar-width: none;
 
-@media (max-width:670px) {
-  height:90vh ;
-  
-}
 
 `
