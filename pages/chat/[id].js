@@ -98,6 +98,8 @@ display: none;
 }
 -ms-overflow-style: none;
 scrollbar-width: none;
-
+/* min-height: 100vh;
+    min-height: fill-available; */
+    height: -webkit-fill-available;
 
 `
